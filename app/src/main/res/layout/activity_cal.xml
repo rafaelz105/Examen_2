@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Cal">
+
+    <TextView
+        android:id="@+id/less"
+        android:layout_width="86dp"
+        android:layout_height="24dp"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="42dp"
+        tools:text="@string/less" />
+
+    <Button
+        android:id="@+id/Calm"
+        android:layout_width="286dp"
+        android:layout_height="62dp"
+        android:text="@string/Calm"
+        tools:layout_editor_absoluteX="62dp"
+        tools:layout_editor_absoluteY="189dp" />
+
+    <TextView
+        android:id="@+id/defr"
+        android:layout_width="85dp"
+        android:layout_height="24dp"
+        android:text="@string/defr"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="273dp" />
+
+    <TextView
+        android:id="@+id/res"
+        android:layout_width="195dp"
+        android:layout_height="47dp"
+        tools:layout_editor_absoluteX="108dp"
+        tools:layout_editor_absoluteY="316dp" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="362dp"
+        android:layout_height="39dp"
+        android:ems="10"
+        android:inputType="number"
+        tools:layout_editor_absoluteX="22dp"
+        tools:layout_editor_absoluteY="111dp" />
+</android.support.constraint.ConstraintLayout>

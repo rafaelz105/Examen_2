@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="unitem">Unidades de Temperatura</string>
+    <string name="uniare">Unidades por Area</string>
+    <string name="unidis">Unidades por Distancia</string>
+    <string name="tem1">Celsius a Fahrenheit</string>
+    <string name="tem2">Fahrenheit a Celsius</string>
+    <string name="tem3">Celsius a Kelvin</string>
+    <string name="tem4">Kelvin a Celsius</string>
+    <string name="are1">Hectaria a Metro*2</string>
+    <string name="are2">Metro*2 a Hectaria</string>
+    <string name="are3">Metro*2 a Kilometro*2</string>
+    <string name="are4">Kilometro*2 a Metro*2</string>
+    <string name="dis1">Metro a Centimetro</string>
+    <string name="dis2">Centimetro a Metro</string>
+    <string name="dis3">Centimetro a Pulgada</string>
+    <string name="dis4">Pulgada a Centimetro</string>
+    <string name="less">Unidades</string>
+    <string name="addf"></string>
+    <string name="Calm">Calcular</string>
+    <string name="defr">Resultado</string>
+</resources>

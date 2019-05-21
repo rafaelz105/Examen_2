@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/unitem"
+        android:layout_width="177dp"
+        android:layout_height="0dp"
+        tools:layout_editor_absoluteX="6dp"
+        tools:layout_editor_absoluteY="16dp"
+        tools:text="@string/unitem" />
+
+    <TextView
+        android:id="@+id/uniare"
+        android:layout_width="179dp"
+        tools:text="@string/uniare"
+        tools:layout_editor_absoluteX="6dp"
+        tools:layout_editor_absoluteY="218dp" />
+
+    <TextView
+        android:id="@+id/unidis"
+        android:layout_width="189dp"
+        android:layout_height="21dp"
+        tools:text="@string/unidis"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="454dp" />
+
+    <Button
+        android:id="@+id/tem2"
+        android:layout_width="144dp"
+        android:layout_height="61dp"
+        android:text="@string/tem2"
+        tools:layout_editor_absoluteX="150dp"
+        tools:layout_editor_absoluteY="54dp" />
+
+    <Button
+        android:id="@+id/tem3"
+        android:layout_width="144dp"
+        android:layout_height="61dp"
+        android:text="@string/tem3"
+        tools:layout_editor_absoluteX="6dp"
+        tools:layout_editor_absoluteY="123dp" />
+
+    <Button
+        android:id="@+id/tem4"
+        android:layout_width="144dp"
+        android:layout_height="61dp"
+        android:text="@string/tem4"
+        tools:layout_editor_absoluteX="150dp"
+        tools:layout_editor_absoluteY="123dp" />
+
+    <Button
+        android:id="@+id/tem1"
+        android:layout_width="144dp"
+        android:layout_height="61dp"
+        android:text="@string/tem1"
+        tools:layout_editor_absoluteX="6dp"
+        tools:layout_editor_absoluteY="54dp" />
+
+    <Button
+        android:id="@+id/are4"
+        android:layout_width="144dp"
+        android:layout_height="61dp"
+        android:text="@string/are4"
+        tools:layout_editor_absoluteX="150dp"
+        tools:layout_editor_absoluteY="335dp" />
+
+    <Button
+        android:id="@+id/are1"
+        android:layout_width="144dp"
+        android:layout_height="61dp"
+        android:text="@string/are1"
+        tools:layout_editor_absoluteX="-1dp"
+        tools:layout_editor_absoluteY="266dp" />
+
+    <Button
+        android:id="@+id/are2"
+        android:layout_width="144dp"
+        android:layout_height="61dp"
+        android:text="@string/are2"
+        tools:layout_editor_absoluteX="150dp"
+        tools:layout_editor_absoluteY="266dp" />
+
+    <Button
+        android:id="@+id/are3"
+        android:layout_width="144dp"
+        android:layout_height="61dp"
+        android:text="@string/are3"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="335dp" />
+
+    <Button
+        android:id="@+id/dis2"
+        android:layout_width="144dp"
+        android:layout_height="61dp"
+        android:text="@string/dis2"
+        tools:layout_editor_absoluteX="160dp"
+        tools:layout_editor_absoluteY="519dp" />
+
+    <Button
+        android:id="@+id/dis3"
+        android:layout_width="144dp"
+        android:layout_height="61dp"
+        android:text="@string/dis13"
+        tools:layout_editor_absoluteX="6dp"
+        tools:layout_editor_absoluteY="594dp" />
+
+    <Button
+        android:id="@+id/dis4"
+        android:layout_width="144dp"
+        android:layout_height="61dp"
+        android:text="@string/dis4"
+        tools:layout_editor_absoluteX="160dp"
+        tools:layout_editor_absoluteY="594dp" />
+
+    <Button
+        android:id="@+id/dis1"
+        android:layout_width="144dp"
+        android:layout_height="61dp"
+        android:text="@string/dis1"
+        tools:layout_editor_absoluteX="6dp"
+        tools:layout_editor_absoluteY="519dp" />
+</android.support.constraint.ConstraintLayout>
