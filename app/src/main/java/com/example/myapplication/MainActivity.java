@@ -38,6 +38,8 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+
+        /*doge lalalaalalalalalalla*/
         //hectarea a metro2
         hec2.setOnClickListener(new View.OnClickListener() {
             @Override
